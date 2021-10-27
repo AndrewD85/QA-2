@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../QA-1/.idea/QA-1.iml" filepath="$PROJECT_DIR$/../QA-1/.idea/QA-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/QA-2 (math operations).iml" filepath="$PROJECT_DIR$/.idea/QA-2 (math operations).iml" />
+    </modules>
+  </component>
+</project>
